@@ -1,0 +1,20 @@
+{
+  "name": "proyectone",
+  "homepage": "https://github.com/wallace8/projectone",
+  "authors": [
+    "wallace8 <shif_8@hotmail.com>"
+  ],
+  "description": "prueba de init",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
